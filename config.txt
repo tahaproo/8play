@@ -1,0 +1,6 @@
+﻿token=
+owner=498132773878628353
+prefix=
+game=Crazy World
+stayinchannel=true
+songinstatus=true
